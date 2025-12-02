@@ -1,0 +1,22 @@
+{
+  "@@locale": "es",
+  "calendar": "Calendario",
+  "createEntry": "Crear Entrada",
+  "statistics": "Estadísticas",
+  "language": "Idioma",
+  "editEntry": "Editar entrada de migraña",
+  "dateLabel": "Fecha: {date}",
+  "startTimeLabel": "Hora de inicio: {time}",
+  "endTimeNotSet": "Hora de finalización: No establecida",
+  "endTimeLabel": "Hora de finalización: {time}",
+  "severityLabel": "Severidad (número)",
+  "notesLabel": "Notas adicionales",
+  "saveEntry": "Guardar entrada",
+   "frequency": "Frecuencia",
+  "timeOfDay": "Hora del día",
+   "today": "hoy",
+  "stepCount": "Recuento de Pasos",
+  "day": "dia", 
+  "data": "datos"
+
+}

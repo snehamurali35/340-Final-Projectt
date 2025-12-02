@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "calendar": "Calendar",
+  "createEntry": "Create Entry",
+  "statistics": "Statistics",
+  "language": "Language",
+  "editEntry": "Edit Migraine Entry",
+  "dateLabel": "Date: {date}",
+  "startTimeLabel": "Start Time: {time}",
+  "endTimeNotSet": "End Time: Not Set",
+  "endTimeLabel": "End Time: {time}",
+  "severityLabel": "Severity (number)",
+  "notesLabel": "Additional Notes",
+  "saveEntry": "Save Entry",
+  "frequency": "Frequency",
+  "timeOfDay": "Time of Day", 
+  "today": "Today",
+  "stepCount": "Step Count",
+  "day": "Day",
+  "data": "Data"
+}
