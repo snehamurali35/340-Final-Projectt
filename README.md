@@ -19,4 +19,4 @@ The app is easily run by simply building the app on their phone, and allowing al
 # Project Layout
 
 The lib holds the models, views, providers, main, and l10n folders, where the l10n folders hold the translations for internationalization. There are 5 views, one is the view of the calendar, the next is the view of the graph, the view of creating a new entry. The step chart view is called in graph to present the graph of steps in the same view of the data, and the navigation view allows for all these to come together and be accessible from the same page, with 3 different buttons for each of the three views.
-<img width="774" height="950" alt="image" src="https://github.com/user-attachments/assets/ff34dd6d-3ed8-4c3c-a01f-6aa4062df101" />
+[NeuroLog_Poster-3.pdf](https://github.com/user-attachments/files/23892353/NeuroLog_Poster-3.pdf)
